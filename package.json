@@ -6,9 +6,18 @@
   "engines": {
     "vscode": "^1.72.0"
   },
+  "keywords": [
+    "theme",
+    "fedu",
+    "dark",
+    "dexios"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/truefusion/vscode-dexios-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/truefusion/vscode-dexios-theme/issues"
   },
   "categories": [
     "Themes"
