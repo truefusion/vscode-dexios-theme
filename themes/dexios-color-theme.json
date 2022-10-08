@@ -90,8 +90,8 @@
 		"editor.findMatchBackground": "#FCB65033",
 		"editor.selectionHighlightBackground": "#FCB65033",
 		"editor.findMatchHighlightBackground": "#FCB65033",
-		"editorBracketHighlight.foreground1": "#FDD59B",
-		"editorBracketHighlight.foreground2": "#FDD59B",
+		"editorBracketHighlight.foreground1": "#FCB650",
+		"editorBracketHighlight.foreground2": "#FCB650",
 		"editorBracketHighlight.foreground3": "#FCB650",
 		"editorBracketHighlight.foreground4": "#FCB650",
 		"editorBracketHighlight.foreground5": "#FCB650",
@@ -102,7 +102,8 @@
 		"editorOverviewRuler.addedForeground": "#293134",
 		"editorOverviewRuler.modifiedForeground": "#293134",
 		"editorOverviewRuler.deletedForeground": "#293134",
-		"editorOverviewRuler.bracketMatchForeground": "#293134"
+		"editorOverviewRuler.bracketMatchForeground": "#293134",
+		"minimap.errorHighlight": "#CC6666"
 	},
 	"tokenColors": [
 		{
