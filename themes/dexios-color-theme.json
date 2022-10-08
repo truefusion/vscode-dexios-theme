@@ -5,7 +5,6 @@
 		// -- Base colors --
 		//
 		"foreground": "#FAFAFA",
-		"editor.background": "#293134",
 		"widget.shadow": "#1F2527",
 		"focusBorder": "#293134",
 		"selection.background": "#1F2527",
@@ -70,6 +69,8 @@
 		"scrollbarSlider.activeBackground": "#1F2527",
 		"scrollbarSlider.background": "#1F2527",
 		"scrollbarSlider.hoverBackground": "#1F2527",
+		"editor.background": "#293134",
+		"editor.foldBackground": "#678CB133",
 		"editor.lineHighlightBackground": "#293134",
 		"editor.lineHighlightBorder": "#293134",
 		"editorError.foreground": "#CC6666",
@@ -84,7 +85,7 @@
 		"editorCursor.background": "#FAFAFA",
 		"editorOverviewRuler.border": "#293134",
 		"editorOverviewRuler.findMatchForeground": "#FAFAFA",
-		"editor.selectionBackground": "#678CB1",
+		"editor.selectionBackground": "#678CB133",
 		// "editor.selectionForeground": "#293134",
 		"editor.findMatchBackground": "#FCB65033",
 		"editor.selectionHighlightBackground": "#FCB65033",
