@@ -1,35 +1,39 @@
 {
-  "name": "dexios",
-  "displayName": "Dexios",
-  "description": "Dexios color theme for VS Code.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.72.0"
-  },
-  "keywords": [
-    "theme",
-    "fedu",
-    "dark",
-    "dexios"
-  ],
-  "publisher": "truefusion",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/truefusion/vscode-dexios-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/truefusion/vscode-dexios-theme/issues"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Dexios",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dexios-color-theme.json"
-      }
+    "name": "dexios",
+    "displayName": "Dexios",
+    "description": "Dexios theme bundle for VS Code.",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "keywords": [
+        "theme",
+        "fedu",
+        "dark",
+        "dexios"
+    ],
+    "publisher": "truefusion",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/truefusion/vscode-dexios-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/truefusion/vscode-dexios-theme/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dexios",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dexios-color-theme.json"
+            }
+        ]
+    },
+    "extensionPack": [
+        "miguelsolorio.fluent-icons",
+        "jtlowe.vscode-icon-theme"
     ]
-  }
 }
