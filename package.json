@@ -12,6 +12,7 @@
     "dark",
     "dexios"
   ],
+  "publisher": "truefusion",
   "repository": {
     "type": "git",
     "url": "https://github.com/truefusion/vscode-dexios-theme.git"
