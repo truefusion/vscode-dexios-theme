@@ -1,10 +1,14 @@
 {
   "name": "dexios",
-  "displayName": "dexios",
+  "displayName": "Dexios",
   "description": "Dexios color theme for VS Code.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truefusion/vscode-dexios-theme.git"
   },
   "categories": [
     "Themes"
@@ -14,7 +18,7 @@
       {
         "label": "Dexios",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dexios-color-theme.json"
+        "path": "./themes/dexios-color-theme.json"
       }
     ]
   }
