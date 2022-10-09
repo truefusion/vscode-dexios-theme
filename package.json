@@ -1,8 +1,8 @@
 {
     "name": "dexios",
-    "displayName": "Dexios",
-    "description": "Dexios theme bundle for VS Code.",
-    "version": "0.2.0",
+    "displayName": "Dexios (color theme)",
+    "description": "Dexios color theme for VS Code.",
+    "version": "0.2.1",
     "engines": {
         "vscode": "^1.72.0"
     },
@@ -31,9 +31,5 @@
                 "path": "./themes/dexios-color-theme.json"
             }
         ]
-    },
-    "extensionPack": [
-        "miguelsolorio.fluent-icons",
-        "jtlowe.vscode-icon-theme"
-    ]
+    }
 }
