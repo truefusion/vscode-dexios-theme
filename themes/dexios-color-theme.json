@@ -43,6 +43,8 @@
 		"input.foreground": "#FAFAFA",
 		"inputOption.activeBorder": "#1F2527",
 		"inputValidation.infoBorder": "#1F2527",
+		"notifications.background": "#1F2527",
+		"notificationCenterHeader.background": "#293134",
 		//
 		// -- Tabs & Groups --
 		//
@@ -96,8 +98,8 @@
 		"editorBracketHighlight.foreground4": "#FCB650",
 		"editorBracketHighlight.foreground5": "#FCB650",
 		"editorBracketHighlight.foreground6": "#FCB650",
-		"editorBracketMatch.background": "#293134",
-		"editorBracketMatch.border": "#FDD59B",
+		"editorBracketMatch.background": "#678CB166",
+		"editorBracketMatch.border": "#FDD59B66",
 		"editorOverviewRuler.wordHighlightForeground": "#FDD59B",
 		"editorOverviewRuler.addedForeground": "#293134",
 		"editorOverviewRuler.modifiedForeground": "#293134",
