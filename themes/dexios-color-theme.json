@@ -106,7 +106,29 @@
 		"editorOverviewRuler.modifiedForeground": "#293134",
 		"editorOverviewRuler.deletedForeground": "#293134",
 		"editorOverviewRuler.bracketMatchForeground": "#293134",
-		"minimap.errorHighlight": "#CC6666"
+		"minimap.errorHighlight": "#CC6666",
+		// 
+		// -- Terminal Colors --
+		// 
+		"terminal.background": "#293134",
+		"terminal.foreground": "#C0C0C0",
+		"terminalCommandDecoration.errorBackground": "#CC6666",
+		"terminalCommandDecoration.successBackground": "#88DD44",
+		"terminal.ansiBrightBlack": "#1F2527",
+		"terminal.ansiBlue": "#678CB199",
+		"terminal.ansiBrightBlue": "#678CB1",
+		"terminal.ansiCyan": "#97CCF199",
+		"terminal.ansiBrightCyan": "#97CCF1",
+		"terminal.ansiGreen": "#88DD4499",
+		"terminal.ansiBrightGreen": "#88DD44",
+		"terminal.ansiMagenta": "#A082BD99",
+		"terminal.ansiBrightMagenta": "#A082BD",
+		"terminal.ansiRed": "#CC666699",
+		"terminal.ansiBrightRed": "#CC6666",
+		"terminal.ansiYellow": "#FDD59B99",
+		"terminal.ansiBrightYellow": "#FDD59B",
+		"terminal.ansiWhite": "#C0C0C0",
+		"terminal.ansiBrightWhite": "#FAFAFA"
 	},
 	"tokenColors": [
 		{
