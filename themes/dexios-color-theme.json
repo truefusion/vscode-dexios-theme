@@ -58,7 +58,7 @@
 		"tab.unfocusedActiveForeground": "#FAFAFA",
 		"tab.unfocusedActiveBackground": "#293134",
 		"tab.unfocusedInactiveForeground": "#C0C0C0",
-		"tab.unfocusedInactiveBackground": "#293134",
+		"tab.unfocusedInactiveBackground": "#1F2527",
 		"tab.border": "#293134",
 		"tab.hoverBorder": "#293134",
 		"tab.lastPinnedBorder": "#293134",
