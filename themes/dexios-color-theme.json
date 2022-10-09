@@ -128,7 +128,18 @@
 		"terminal.ansiYellow": "#FDD59B99",
 		"terminal.ansiBrightYellow": "#FDD59B",
 		"terminal.ansiWhite": "#C0C0C0",
-		"terminal.ansiBrightWhite": "#FAFAFA"
+		"terminal.ansiBrightWhite": "#FAFAFA",
+		// 
+		// -- Git Colors --
+		// 
+		"gitDecoration.addedResourceForeground": "#88DD44",
+		"gitDecoration.conflictingResourceForeground": "#CC6666",
+		"gitDecoration.deletedResourceForeground": "#CC666666",
+		"gitDecoration.ignoredResourceForeground": "#C0C0C066",
+		"gitDecoration.modifiedResourceForeground": "#FDD59B",
+		"gitDecoration.renamedResourceForeground": "#FDD59B",
+		"gitDecoration.submoduleResourceForeground": "#C0C0C0BB",
+		"gitDecoration.untrackedResourceForeground": "#C0C0C0"
 	},
 	"tokenColors": [
 		{
