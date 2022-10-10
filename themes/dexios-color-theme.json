@@ -74,11 +74,11 @@
 		"scrollbarSlider.hoverBackground": "#1F2527",
 		"editor.background": "#293134",
 		"editor.foldBackground": "#678CB133",
-		"editor.lineHighlightBackground": "#293134",
-		"editor.lineHighlightBorder": "#293134",
+		"editor.lineHighlightBackground": "#1F2527",
+		"editor.lineHighlightBorder": "#1F2527",
 		"editorError.foreground": "#CC6666",
 		"editorLineNumber.foreground": "#1F2527",
-		"editorLineNumber.activeForeground": "#1F2527",
+		"editorLineNumber.activeForeground": "#C0C0C0",
 		"editorWhitespace.foreground": "#1F2527",
 		"editorIndentGuide.background": "#1F2527",
 		"editorIndentGuide.activeBackground": "#1F2527",
@@ -203,6 +203,15 @@
 			],
 			"settings": {
 				"foreground": "#FCB650"
+			}
+		},
+		{
+			"name": "Red",
+			"scope": [
+				"invalid",
+			],
+			"settings": {
+				"foreground": "#CC6666"
 			}
 		},
 		{
