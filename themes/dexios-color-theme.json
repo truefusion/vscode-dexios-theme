@@ -88,10 +88,10 @@
 		"editorCursor.background": "#FAFAFA",
 		"editorOverviewRuler.border": "#293134",
 		"editorOverviewRuler.findMatchForeground": "#FAFAFA",
-		"editor.selectionBackground": "#678CB133",
+		"editor.selectionBackground": "#FCB65044",
 		// "editor.selectionForeground": "#293134",
 		"editor.findMatchBackground": "#FCB65033",
-		"editor.selectionHighlightBackground": "#FCB65033",
+		"editor.selectionHighlightBackground": "#678CB166",
 		"editor.findMatchHighlightBackground": "#FCB65033",
 		"editorBracketHighlight.foreground1": "#C0C0C0",
 		"editorBracketHighlight.foreground2": "#C0C0C0",
@@ -99,17 +99,17 @@
 		"editorBracketHighlight.foreground4": "#C0C0C0",
 		"editorBracketHighlight.foreground5": "#C0C0C0",
 		"editorBracketHighlight.foreground6": "#C0C0C0",
-		"editorBracketMatch.background": "#293134",
-		"editorBracketMatch.border": "#C0C0C0",
+		"editorBracketMatch.background": "#C0C0C066",
+		"editorBracketMatch.border": "#C0C0C066",
 		"editorOverviewRuler.wordHighlightForeground": "#FDD59B",
 		"editorOverviewRuler.addedForeground": "#293134",
 		"editorOverviewRuler.modifiedForeground": "#293134",
 		"editorOverviewRuler.deletedForeground": "#293134",
 		"editorOverviewRuler.bracketMatchForeground": "#293134",
 		"minimap.errorHighlight": "#CC6666",
-		// 
+		//
 		// -- Terminal Colors --
-		// 
+		//
 		"terminal.background": "#293134",
 		"terminal.foreground": "#C0C0C0",
 		"terminalCommandDecoration.errorBackground": "#CC6666",
@@ -129,9 +129,9 @@
 		"terminal.ansiBrightYellow": "#FDD59B",
 		"terminal.ansiWhite": "#C0C0C0",
 		"terminal.ansiBrightWhite": "#FAFAFA",
-		// 
+		//
 		// -- Git Colors --
-		// 
+		//
 		"gitDecoration.addedResourceForeground": "#88DD44",
 		"gitDecoration.conflictingResourceForeground": "#CC6666",
 		"gitDecoration.deletedResourceForeground": "#CC666666",
