@@ -83,7 +83,7 @@
 		"editorIndentGuide.background": "#1F2527",
 		"editorIndentGuide.activeBackground": "#1F2527",
 		"editorRuler.foreground": "#1F2527",
-		"editorGroup.border": "#1F2527",
+		"editorGroup.border": "#C0C0C022",
 		"editorCursor.foreground": "#FCB650",
 		"editorCursor.background": "#FAFAFA",
 		"editorOverviewRuler.border": "#293134",
@@ -107,6 +107,9 @@
 		"editorOverviewRuler.deletedForeground": "#293134",
 		"editorOverviewRuler.bracketMatchForeground": "#293134",
 		"minimap.errorHighlight": "#CC6666",
+		"minimap.background": "#232A2C",
+		"minimapSlider.background": "#FCB65022",
+		"minimapSlider.hoverBackground": "#FCB65044",
 		//
 		// -- Terminal Colors --
 		//
