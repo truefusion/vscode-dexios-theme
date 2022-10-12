@@ -2,7 +2,7 @@
     "name": "dexios",
     "displayName": "Dexios (color theme)",
     "description": "Dexios color theme for VS Code.",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "engines": {
         "vscode": "^1.72.0"
     },
