@@ -78,7 +78,7 @@
 		"editorOverviewRuler.background": "#1F2527",
 		"editorOverviewRuler.border": "#1F2527",
 		"minimap.background": "#1F2527",
-		"editor.foldBackground": "#678CB133",
+		"editor.foldBackground": "#29313400",
 		"editor.lineHighlightBackground": "#1F252766",
 		"editor.lineHighlightBorder": "#1F252700",
 		"editorError.foreground": "#CC6666",
