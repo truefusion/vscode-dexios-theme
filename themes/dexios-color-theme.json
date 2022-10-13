@@ -8,7 +8,8 @@
 		"widget.shadow": "#1F2527",
 		"focusBorder": "#293134",
 		"selection.background": "#1F2527",
-		"titleBar.activeBackground": "#293134",
+		"titleBar.inactiveBackground": "#1F2527",
+		"titleBar.activeBackground": "#1F2527",
 		"progressBar.background": "#FCB650",
 		//
 		// -- Sidebar colors --
@@ -28,8 +29,8 @@
 		// -- Widget Colors --
 		//
 		"list.activeSelectionForeground": "#FAFAFA",
-		"list.activeSelectionBackground": "#678CB1",
-		"list.inactiveSelectionBackground": "#293134",
+		"list.activeSelectionBackground": "#C0C0C022",
+		"list.inactiveSelectionBackground": "#FCB65011",
 		"list.hoverBackground": "#293134",
 		"button.background": "#1F2527",
 		"button.border": "#C0C0C0",
