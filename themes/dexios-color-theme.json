@@ -29,7 +29,7 @@
 		// -- Widget Colors --
 		//
 		"list.activeSelectionForeground": "#FAFAFA",
-		"list.activeSelectionBackground": "#C0C0C022",
+		"list.activeSelectionBackground": "#393E40",
 		"list.inactiveSelectionBackground": "#FCB65011",
 		"list.hoverBackground": "#293134",
 		"button.background": "#1F2527",
@@ -83,13 +83,13 @@
 		"editor.lineHighlightBackground": "#1F252766",
 		"editor.lineHighlightBorder": "#1F252700",
 		"editorError.foreground": "#CC6666",
-		"editorLineNumber.foreground": "#C0C0C033",
+		"editorLineNumber.foreground": "#4F5759",
 		"editorLineNumber.activeForeground": "#FCB650",
 		"editorWhitespace.foreground": "#1F2527",
 		"editorIndentGuide.background": "#1F2527",
 		"editorIndentGuide.activeBackground": "#1F2527",
 		"editorRuler.foreground": "#1F2527",
-		"editorGroup.border": "#C0C0C022",
+		"editorGroup.border": "#393E40",
 		"editorCursor.foreground": "#FCB650",
 		"editorCursor.background": "#FAFAFA",
 		"editorOverviewRuler.findMatchForeground": "#FAFAFA",
@@ -104,8 +104,8 @@
 		"editorBracketHighlight.foreground4": "#C0C0C0",
 		"editorBracketHighlight.foreground5": "#C0C0C0",
 		"editorBracketHighlight.foreground6": "#C0C0C0",
-		"editorBracketMatch.background": "#C0C0C066",
-		"editorBracketMatch.border": "#C0C0C066",
+		"editorBracketMatch.background": "#4F5759",
+		"editorBracketMatch.border": "#4F5759",
 		"editorOverviewRuler.wordHighlightForeground": "#FDD59B",
 		"editorOverviewRuler.addedForeground": "#293134",
 		"editorOverviewRuler.modifiedForeground": "#293134",
@@ -148,7 +148,7 @@
 		"gitDecoration.addedResourceForeground": "#88DD44",
 		"gitDecoration.conflictingResourceForeground": "#CC6666",
 		"gitDecoration.deletedResourceForeground": "#CC666666",
-		"gitDecoration.ignoredResourceForeground": "#C0C0C066",
+		"gitDecoration.ignoredResourceForeground": "#4F5759",
 		"gitDecoration.modifiedResourceForeground": "#FDD59B",
 		"gitDecoration.renamedResourceForeground": "#FDD59B",
 		"gitDecoration.submoduleResourceForeground": "#C0C0C0BB",
@@ -161,7 +161,7 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#C0C0C066"
+				"foreground": "#4F5759"
 			}
 		},
 		{
