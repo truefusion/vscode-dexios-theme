@@ -115,7 +115,7 @@
 		"minimapSlider.background": "#B6BDBF22",
 		"minimapSlider.hoverBackground": "#FCB65044",
 		"scrollbarSlider.background": "#B6BDBF22",
-		"scrollbarSlider.activeBackground": "#FCB65044",
+		"scrollbarSlider.activeBackground": "#FCB65099",
 		"scrollbarSlider.hoverBackground": "#FCB65033",
 		"editorGutter.addedBackground": "#88DD44",
 		"editorGutter.modifiedBackground": "#FCB650",
